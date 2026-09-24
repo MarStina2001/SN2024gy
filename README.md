@@ -1,7 +1,7 @@
 # SN2024gy
 Calibration of the spectra of SN2024gy
 
-The main work done is in clean.ipynb where you can see that something must be done on Iraf terminal and not on pyraf.\
+The main work done is in clean.ipynb and lamp.ipynb where you can see that something must be done on Iraf terminal and not on pyraf.\
 I suggest you to look and run the script in the following order:\
 bias.ipynb\
 flat.ipynb\
