@@ -7,6 +7,6 @@ bias.ipynb\
 flat.ipynb\
 clean.ipynb\
 lamp.ipynb\
-match_lamp.ipynb\
+match_lamp.ipynb
 
 If you download and run this project in a Windows folder (with WSL it's something like mnt/c/...) you could have some troubles cause the symbol ":" in files names is not recognized and so replaced. I suggest you to replace it with "_" in both file names and file names lists.
